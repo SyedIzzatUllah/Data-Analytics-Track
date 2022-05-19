@@ -12,7 +12,7 @@ We can take a closer look at the data types and data collection tools. Imagine t
 
 In our scenario, we assume quantitative data already exists to monitor all three trends. 
 
-## Movie attendance over time
+#  Movie attendance over time
 
 Starting with the historical data the theater has through its loyalty and rewards program, your first step is to investigate what insights you can gain from that data. You look at attendance over the last 3 months. But, because the last 3 months didn’t include a major holiday, you decide it is better to look at a full year’s worth of data. As you suspected, the quantitative data confirmed that average attendance was 550 per month but then rose to an average of 1,600 per month for the months with holidays. 
 
